@@ -3,7 +3,7 @@
 // @version      1.4
 // @description  ur welcome cheater
 // @author       icfranco (github@icfrancos)
-// @match        https://www.pt.khanacademy.org/*
+// @match        https://pt.khanacademy.org/*
 // @grant        none
 // ==/UserScript==
 
